@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Homework1</string>
+    <string name="app_name" translatable="false">Homework1</string>
+    <string name="ect_name_th" translatable="false">สำนักงานคณะกรรมการการเลือกตั้ง</string>
+    <string name="ect_name_en" translatable="false">ELECTION COMMISSION OF THAILAND</string>
+    <string name="count_down">Count Down To Election Day</string>
+    <string name="days">Days</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+    <string name="next">Next</string>
+
 </resources>
